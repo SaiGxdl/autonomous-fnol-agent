@@ -1,0 +1,37 @@
+{
+  "status": "success",
+  "file": "review_docs.pdf",
+  "extractedFields": {
+    "policy_info": {
+      "policy_number": "POL999",
+      "policyholder_name": null,
+      "effective_date": null
+    },
+    "incident_info": {
+      "date": "02/02/2025",
+      "time": null,
+      "location": "Dallas, TX",
+      "description": "Minor collision"
+    },
+    "claimant": {
+      "name": null,
+      "contact_details": null
+    },
+    "third_parties": [],
+    "asset_info": {
+      "asset_type": "vehicle",
+      "asset_id": null,
+      "estimated_damage": 8000.0,
+      "damage_description": null
+    },
+    "claim_type": "auto",
+    "attachments_present": false,
+    "initial_estimate": 8000.0
+  },
+  "missingFields": [
+    "policyholder_name"
+  ],
+  "inconsistencies": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Mandatory fields are missing: ['policyholder_name']"
+}

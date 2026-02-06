@@ -1,0 +1,16 @@
+POLICY NUMBER: POL12345678
+NAME OF INSURED: John Doe
+
+DATE OF LOSS: 01/10/2025
+TIME: 14:30
+LOCATION OF LOSS: 123 Main Street, Austin, TX
+
+DESCRIPTION OF ACCIDENT:
+Rear-end collision. The driver's story seems inconsistent with the damage.
+
+VEHICLE DETAILS:
+VIN: 1HGCM82633A123456
+DESCRIBE DAMAGE: Rear bumper dented
+ESTIMATE AMOUNT: 12000
+
+CLAIM TYPE: auto

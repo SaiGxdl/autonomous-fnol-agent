@@ -1,0 +1,41 @@
+{
+  "status": "success",
+  "file": "ACORD-Automobile-Loss-Notice-12.05.16 new.pdf",
+  "extractedFields": {
+    "policy_info": {
+      "policy_number": null,
+      "policyholder_name": null,
+      "effective_date": null
+    },
+    "incident_info": {
+      "date": null,
+      "time": null,
+      "location": null,
+      "description": null
+    },
+    "claimant": {
+      "name": null,
+      "contact_details": null
+    },
+    "third_parties": [],
+    "asset_info": {
+      "asset_type": "vehicle",
+      "asset_id": null,
+      "estimated_damage": 0.0,
+      "damage_description": null
+    },
+    "claim_type": "auto",
+    "attachments_present": false,
+    "initial_estimate": 0.0
+  },
+  "missingFields": [
+    "policy_number",
+    "policyholder_name",
+    "date",
+    "location",
+    "description"
+  ],
+  "inconsistencies": [],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Mandatory fields are missing: ['policy_number', 'policyholder_name', 'date', 'location', 'description']"
+}

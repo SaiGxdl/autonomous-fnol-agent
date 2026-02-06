@@ -1,0 +1,7 @@
+{
+  "status": "error",
+  "file": "acord_auto_loss_notice.pdf",
+  "message": "Document could not be parsed or contains no extractable text",
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Document is unreadable or has no extractable text. Manual intervention required."
+}

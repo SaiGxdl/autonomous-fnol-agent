@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "file": "sample_fnol.txt",
+  "extractedFields": {
+    "policy_info": {
+      "policy_number": "POL12345678",
+      "policyholder_name": "John Doe",
+      "effective_date": null
+    },
+    "incident_info": {
+      "date": "01/10/2025",
+      "time": "14:30",
+      "location": "123 Main Street, Austin, TX",
+      "description": "Rear-end collision. The driver's story seems inconsistent with the damage."
+    },
+    "claimant": {
+      "name": "John Doe",
+      "contact_details": null
+    },
+    "third_parties": [],
+    "asset_info": {
+      "asset_type": "vehicle",
+      "asset_id": "1HGCM82633A123456",
+      "estimated_damage": 12000.0,
+      "damage_description": "Rear bumper dented"
+    },
+    "claim_type": "auto",
+    "attachments_present": false,
+    "initial_estimate": 12000.0
+  },
+  "missingFields": [],
+  "inconsistencies": [],
+  "recommendedRoute": "Investigation",
+  "reasoning": "Fraud-related keywords detected in claim description."
+}
